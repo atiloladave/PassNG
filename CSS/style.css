@@ -1,0 +1,594 @@
+
+.inner-txt h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16;
+    font-style: normal;
+    color: #343434;
+    text-align: center;
+    font-weight: normal;
+    letter-spacing: 1.2;
+    text-transform: uppercase;
+    font-weight: 500;
+    box-shadow: 0px 3px 12px rgb(209, 209, 209);
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 35px 25px;
+}
+
+
+
+.inner-txt h2:hover{
+    background-color: #148500;
+    color: #fff;
+    -webkit-transition: background 0.5s linear;
+    -moz-transition: background 0.5s linear;
+    -ms-transition: background 0.5s linear;
+    -o-transition: background 0.5s linear;
+    transition: background 0.5s linear;
+    cursor: pointer;
+}
+
+.text-header h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color: #343434;
+    font-weight: 550;
+    text-transform: capitalize;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+.text-header{
+    padding-top: 50px;
+}
+
+.bk-lightgreen{
+    background-color: #ebffd7;
+}
+
+.bk-blue{
+    background-color: #030216;
+}
+.ft-text h2 {
+    margin-bottom: 30px;
+    font-family: nunito, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-style: normal;
+    color: #28791a;
+    letter-spacing: 1.0;
+    font-weight: normal;
+}
+
+.ul-footer {
+    padding-left: 0px!important;
+    text-align: left;
+
+}
+
+.ul-footer li { 
+    color: #fff;
+    font-family: nunito, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    padding-bottom: 12px;
+    list-style: none;
+    letter-spacing: 1.0;
+
+}
+
+.ul-footer li:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+.ft-row{
+    padding-top: 60px;
+}
+
+.x1{
+    text-transform: uppercase;
+}
+
+.x2{
+    text-transform: capitalize;
+}
+
+.submit{
+    color: #fff;
+    background-color: #88a830fd;
+    border-style: groove;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+/* footer styling ends here */
+
+/* core features styling starts here */
+.main-ft img {
+    max-width: 20%;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 30px;
+}
+
+.main-ft h2 {
+    font-size: 22px;
+    font-family: Nunito, sans-serif, verdana;
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    color: rgb (44, 39,56);
+    text-transform: inherit;
+    letter-spacing: normal;
+    margin-bottom: 0;
+}
+
+.main-ft p{
+    font-family: nunito, verdana, sans-serif;
+    font-size: 12px;
+    color: #7b8088;
+    letter-spacing: 1.2;
+    text-align: center;
+    text-transform: inherit;
+}
+
+.main-ft {
+    text-align: center;
+    
+}
+
+.s1 {
+    border-right: 1px solid #f8fafb;
+}
+
+
+.btn-start {
+    background-color: #148500!important;
+    color: #fff!important;
+    font-size: 16px;
+    padding: 15px 25px!important;
+    border-radius: 4px;
+    box-shadow: 0px 3px 12px -2px rgb(209, 209, 209);
+    text-transform: capitalize;
+    font-family: nunito, sans-serif;
+    letter-spacing: normal;
+    font-style: normal;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+}
+
+.btn-start:hover {
+    cursor: pointer;
+    background-color: #0f6400 !important;
+    color: #fff;
+    -webkit-transition: background 0.5s linear;
+    -moz-transition: background 0.5s linear;
+    -ms-transition: background 0.5s linear;
+    -o-transition: background 0.5s linear;
+    transition: background 0.5s linear;
+    text-align: center;
+
+}
+
+
+/* core feature styling ends here */
+
+
+/* landing page starts here */
+.bk-img {
+    background-image: url(../CSS/image/display.jpg);
+    background-size: cover;
+}
+
+.lp-text {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.lp-text h2 {
+    font-family: nunito, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 1.2;
+    font-size: 42px;
+    color: #fff;
+    text-align: center;
+}
+
+.lp-text p {
+    font-family: nunito, Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-size: 22px;
+    color: #fff;
+    text-align: center;
+    letter-spacing: normal;
+    font-weight: 600;
+    padding-bottom: 40px;
+}
+
+.ul-list-x1 li {
+    display: inline;
+    list-style: none;
+    margin-right: 15px;
+}
+
+.ul-list-x1 li a {
+    color: #fff;
+    font-size: 14px;
+    font-family: nunito, sans-serif;
+    font-style: normal;
+    letter-spacing: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.ul-list-x1 {
+    text-align: center;
+}
+
+.ul-list-x1 li{
+    display: inline;
+    list-style: none;
+    margin-right: 15px;
+}
+
+.ul-list-x1 .fa {
+    padding-right: 6px;
+    color: #148500;
+}
+
+    /* Want to practice cbt totally offline 0*/
+.bk4-x1 img{
+    width: 450;
+    height: auto;
+    padding-top: 50;
+}
+
+.bk4-x2 h2 {
+    display: block;
+    padding-top: 100px;
+    font-weight: 600px;
+    font-size: 30px;
+    color: #2d3e50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bk4-x2 h3 {
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.btn-start:hover {
+    background-color: #94b71d!important;
+}
+
+.bk5-x2 img {
+    width: 450;
+    height: auto;
+    padding-top: 50;
+    margin: 40px auto 20px;
+    max-width: 100%;
+}
+
+.bk5-x1 h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #2d3e50;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: inherit;
+    line-height: 1.1;
+    box-sizing: border-box;
+}
+
+.bk5-x1 p {
+    display: block;
+    font-size: 15px;
+}
+
+.btn-start {
+    text-decoration: none;
+    margin-top: 25px;
+    background: #83a219;
+}
+
+
+/* Middle space starts here 0*/
+.middle {
+    background: #94b71d; 
+}
+.middle-sta {
+    color: honeydew;
+    font-weight: 400;
+    line-height: 25px;
+    font-size: 14px !important;
+    text-align: center;
+    
+}
+
+.middle-txt {
+    text-decoration: none !important;
+    color: #fff;
+    border-color: #fff;
+    display: inline-block;
+    padding: 6px 31px;
+    letter-spacing: 1.5px;
+}
+/*navbar styling starts here 0*/
+.page-nav img {
+    max-width: 25%;
+}
+
+.page-nav {
+    background-color: #fff;
+}
+
+.navbar-nav li a{
+    font-family: nunito, sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #343434!important;
+    font-weight: normal;
+}
+
+.navbar-nav li {
+    margin-right: 25px;
+}
+
+.navbar-nav .login a {
+    border: 1px solid #148500;
+    border-radius: 4px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.navbar-nav .login a:hover{
+    background: green;
+    color: white!important;
+}
+
+
+
+/*Social Media Styling starts here 0*/
+
+.ul-soc-md1 li {
+    display: inline;
+    list-style: none;
+    color: #fff;
+}
+
+.ul-soc-md2 li {
+    display: inline;
+    list-style: none;
+    color: #fff;
+    padding: 6px;
+    border-radius: 4px;
+    margin-right: 45;
+}
+
+.ul-soc-md2 {
+    text-align: right;
+}
+
+.ul-soc-md2 .fa{
+    padding-top: 15px;
+    margin: 2px;
+}
+
+.ul-soc-md2 li:hover{
+    background-color: #13c931;
+    color: #fff;
+    cursor: pointer;
+}
+
+.ul-soc-md2 .fa{
+    padding-top: 15px;
+    margin: 2px;
+    
+}
+
+.bk-green {
+    background-color: #148500;
+}
+
+.ul-soc-md2 li a{
+    color: #fff;
+}
+
+.ul-soc-md1 li span {
+    font-family: nunito, san serif;
+    font-size: 14px;
+    letter-spacing: normal;
+    font-style: normal;
+}
+
+.ul-soc-md1 li .fa {
+    padding-right: 4px;
+    font-size: 14px;
+}
+
+.ul-soc-md1 li {
+    margin-right: 25px;
+    border-radius: 4px;
+    padding: 6px 12px;
+}
+
+.ul-soc-md1 li:hover{
+    background: #fff;
+    color: #148500;
+    cursor: pointer;
+}
+
+.ul-soc-md1 {
+    padding-top: 15px;
+    padding-left: 0px!important;
+}
+/*Social Media Styling Ends Here 0*?
+
+
+
+/* Seventh black styling starts here */
+.bk6-x1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bk6-x1 img {
+     max-width: 15%;
+}
+
+.bk6-x1 h2 {
+    font-family: nunito, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(44, 39, 56);
+    padding-top: 10px;
+}
+
+.bk6-x1 p {
+    font-size: 14px;
+    font-family: nunito, sans-serif;
+    color: #7b8088;
+}
+
+.btn-now {
+    background-color: #148500!important;
+    color: #fff!important;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: nunito, sans-serif;
+    font-size: 14px!important;
+    border-radius: 4px!important;
+    padding: 15px 45px!important;
+}
+
+/*Seventh block styling ends here */
+
+/*Eigth block styling starts here*/
+
+.bk8-x2 img {
+    border-radius: 100%;
+    max-width: 100%;
+}
+
+.bk8-x2 h2 {
+    font-size: 20px;
+    color: #6f6f6f;
+    text-align: center;
+    line-height: 1.8;
+    font-style: normal;
+    font-weight: normal;
+    max-width: 80%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.bk8-x3 {
+   text-align: center;
+   padding-top: 15px; 
+   padding: 15px 40px;
+     
+}
+
+/*Eight block styling ends here*/
+
+/*Ninth Block styling starts here */
+
+
+.ul-bk9 li {
+    list-style: none;
+    display: inline;
+    color: #fff;
+    margin-right: 25px;
+}
+
+.ul-bk9 .fa {
+    color: #fff;
+    font-size: 42px;
+}
+
+.bk9-x1 h2 {
+    text-align: right;
+    color: #fff;
+    font-size: 32px;
+}
+
+/* Tenth block styling starts here */
+
+.ul-bk10 li {
+    list-style: none;
+    display: inline;
+} 
+
+.bk10-x1 h2 {
+    text-align: center;
+    font-family: nunito,Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+#main-copy {
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+
+}
+
+.mid-radius {
+    font-family: nunito, Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    font-size: 12px;
+}
+
+/* media query starts here */
+
+@media (max-width: 768px) {
+    .ul-soc-md2 {
+        display: none;
+    }
+
+    .navbar-nav {
+        float: right!important;
+    }
+
+    .lp-text h2 {
+        font-size: 32px!important;
+    }
+
+    .lp-text p {
+        font-size: 20px!important;
+    }
+
+    .ul-list-x1 li a {
+        font-size: 12px!important;
+    }
+
+    .bk8-x1 img {
+        max-width: 60%;
+    }
+
+    .bk8-x2 h2 {
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    .ul-bk9-x2 {
+        text-align: center;
+    }
+
+    .bk9-x1 h2 {
+        text-align: center;
+    }
+
+    .mid-radius {
+        font-family: nunito, Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 10px;
+    padding-bottom: 15px;
+    }
+    
+
+}
